@@ -1,7 +1,6 @@
 # Hello, I'm Gabriele Nuccio! 
 
-**PhD Student in Aerospace Engineering @ Politecnico di Milano**
-[DART Lab](https://dart.polimi.it) · Milan, Italy
+**PhD Student in Aerospace Engineering @ [DART Lab](https://dart.polimi.it) , Politecnico di Milano**
 
 I'm a PhD student working on robust trajectory design for future space missions, with a particular focus on nonlinear covariance steering and uncertainty-aware optimization.
 
