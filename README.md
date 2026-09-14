@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gabriele Nuccio! 👋
 
-<!--
-**GabriNuc23/GabriNuc23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Student in Aerospace Engineering @ Politecnico di Milano**
+DART Lab · Milan, Italy
 
-Here are some ideas to get you started:
+I'm a PhD student working on robust trajectory design for future space missions, with a particular focus on nonlinear covariance steering and uncertainty-aware optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests lie at the intersection of astrodynamics, trajectory optimization, stochastic optimal control, and autonomous Guidance, Navigation and Control.
+
+## 🚀 Research Interests
+
+* Astrodynamics and space mission design
+* Trajectory optimization under uncertainty
+* Stochastic optimal control and nonlinear covariance steering
+* Autonomous Guidance, Navigation and Control (GNC)
+
+## 📫 Connect with Me
+
+* [LinkedIn](https://linkedin.com/in/gabriele-nuccio)
+* [GitHub](https://github.com/GabriNuc23)
+* [Email](mailto:gabriele.nuccio@polimi.it)
+
+---
+
