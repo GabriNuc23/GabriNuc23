@@ -13,6 +13,11 @@ My research interests lie at the intersection of astrodynamics, trajectory optim
 * Stochastic optimal control and nonlinear covariance steering
 * Autonomous Guidance, Navigation and Control (GNC)
 
+## Publications
+
+* [Google Scholar](https://scholar.google.com/citations?user=v_TOpsoAAAAJ&hl=it)
+* [ResearchGate](https://www.researchgate.net/profile/Gabriele-Nuccio-3)
+
 ## Connect with Me
 
 * [LinkedIn](https://linkedin.com/in/gabriele-nuccio)
